@@ -1,0 +1,9 @@
+FROM
+COPY
+EXPOSE
+WORKDIR
+RUN
+CMD
+
+Building Docker image
+docker build -t money_api .
